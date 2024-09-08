@@ -46,30 +46,30 @@ const menu2 = `
 const menu3 = `
 <div class="menu1">
 <ul id='list1'>
-   <li href=./game/pragmatic.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/pragmatic.png">pragmatic</li>
-   <li href=./game/pgsoft.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/pgsoft.png">pgsoft</li>
-   <li href=./game/spadegaming.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/spadegaming.png">spadegaming</li>
-   <li href=./game/fastspin.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/fastspin.png">fastspin</li>
-   <li href=./game/joker.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/joker.png">joker</li>
-   <li href=./game/boongo.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/boongo.png">boongo</li>
-   <li href=./game/jili.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/jili.png">jili</li>
-   <li href=./game/playtech.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/playtech.png">playtech</li>
-   <li href=./game/microgaming.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/microgaming.png">microgaming</li>
-   <li href=./game/habanero.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/habanero.png">habanero</li>
-   <li href=./game/cq9.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/cq9.png">cq9</li>
-   <li href=./game/playstar.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/playstar.png">playstar</li>
-   <li href=./game/yggdrasil.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/yggdrasil.png">yggdrasil</li>
-   <li href=./game/netent.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/netent.png">netent</li>
-   <li href=./game/skywind.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/skywind.png"></li>
-   <li href=./game/toptrendgaming.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/toptrendgaming.png">toptrendgaming ttg</li>
-   <li href=./game/nextspin.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/nextspin.png">nextspin</li>
-   <li href=./game/bbin.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/bbin.png">bbin</li>
-   <li href=./game/creativegaming.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/creativegaming.png">creativegaming cg</li>
-   <li href=./game/evoplay.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/evoplay.png">evoplay</li>
-   <li href=./game/royalgaming.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/royalgaming.png">royalgaming rg</li>
-   <li href=./game/fishing.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/fishing.png">fishing tembak ikan</li>
-   <li href=./game/arcade.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/arcade.png">arcade</li>
-   <li href=./game/casino.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/casino.png">casino</li>
+   <li onclick="document.location='./game/pragmatic.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/pragmatic.png">pragmatic</li>
+   <li onclick="document.location='./game/pgsoft.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/pgsoft.png">pgsoft</li>
+   <li onclick="document.location='./game/spadegaming.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/spadegaming.png">spadegaming</li>
+   <li onclick="document.location='./game/fastspin.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/fastspin.png">fastspin</li>
+   <li onclick="document.location='./game/joker.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/joker.png">joker</li>
+   <li onclick="document.location='./game/boongo.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/boongo.png">boongo</li>
+   <li onclick="document.location='./game/jili.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/jili.png">jili</li>
+   <li onclick="document.location='./game/playtech.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/playtech.png">playtech</li>
+   <li onclick="document.location='./game/microgaming.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/microgaming.png">microgaming</li>
+   <li onclick="document.location='./game/habanero.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/habanero.png">habanero</li>
+   <li onclick="document.location='./game/cq9.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/cq9.png">cq9</li>
+   <li onclick="document.location='./game/playstar.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/playstar.png">playstar</li>
+   <li onclick="document.location='./game/yggdrasil.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/yggdrasil.png">yggdrasil</li>
+   <li onclick="document.location='./game/netent.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/netent.png">netent</li>
+   <li onclick="document.location='./game/skywind.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/skywind.png"></li>
+   <li onclick="document.location='./game/toptrendgaming.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/toptrendgaming.png">toptrendgaming ttg</li>
+   <li onclick="document.location='./game/nextspin.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/nextspin.png">nextspin</li>
+   <li onclick="document.location='./game/bbin.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/bbin.png">bbin</li>
+   <li onclick="document.location='./game/creativegaming.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/creativegaming.png">creativegaming cg</li>
+   <li onclick="document.location='./game/evoplay.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/evoplay.png">evoplay</li>
+   <li onclick="document.location='./game/royalgaming.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/royalgaming.png">royalgaming rg</li>
+   <li onclick="document.location='./game/fishing.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/fishing.png">fishing tembak ikan</li>
+   <li onclick="document.location='./game/arcade.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/arcade.png">arcade</li>
+   <li onclick="document.location='./game/casino.html'" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/casino.png">casino</li>
 </ul>
   </div>
 `;
