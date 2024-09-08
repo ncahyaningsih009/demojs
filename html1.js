@@ -45,32 +45,32 @@ const menu2 = `
 
 const menu3 = `
 <div class="menu1">
-<ul id='list'>
-    <li><a href="./game/pragmatic.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/pragmatic.png">pragmatic</a></li>
-    <li><a href="./game/pgsoft.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/pgsoft.png">pgsoft</a></li>
-    <li><a href="./game/spadegaming.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/spadegaming.png">spadegaming</a></li>
-    <li><a href="./game/fastspin.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/fastspin.png">fastspin</a></li>
-    <li><a href="./game/joker.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/joker.png">joker</a></li>
-    <li><a href="./game/boongo.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/boongo.png">boongo</a></li>
-    <li><a href="./game/jili.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/jili.png">jili</a></li>
-    <li><a href="./game/playtech.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/playtech.png">playtech</a></li>
-    <li><a href="./game/microgaming.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/microgaming.png">microgaming</a></li>
-    <li><a href="./game/habanero.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/habanero.png">habanero</a></li>
-    <li><a href="./game/cq9.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/cq9.png">cq9</a></li>
-    <li><a href="./game/playstar.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/playstar.png">playstar</a></li>
-    <li><a href="./game/yggdrasil.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/yggdrasil.png">yggdrasil</a></li>
-    <li><a href="./game/netent.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/netent.png">netent</a></li>
-    <li><a href="./game/skywind.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/skywind.png"></a></li>
-    <li><a href="./game/toptrendgaming.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/toptrendgaming.png">toptrendgaming ttg</a></li>
-    <li><a href="./game/nextspin.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/nextspin.png">nextspin</a></li>
-    <li><a href="./game/bbin.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/bbin.png">bbin</a></li>
-    <li><a href="./game/creativegaming.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/creativegaming.png">creativegaming cg</a></li>
-    <li><a href="./game/evoplay.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/evoplay.png">evoplay</a></li>
-    <li><a href="./game/royalgaming.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/royalgaming.png">royalgaming rg</a></li>
-    <li><a href="./game/fishing.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/fishing.png">fishing tembak ikan</a></li>
-    <li><a href="./game/arcade.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/arcade.png">arcade</a></li>
-    <li><a href="./game/casino.html" class="stay tmenu1"><img class="gmenu1" src="./game/icon/casino.png">casino</a></li>
-    </ul>
+<ul id='list1'>
+   <li href=./game/pragmatic.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/pragmatic.png">pragmatic</li>
+   <li href=./game/pgsoft.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/pgsoft.png">pgsoft</li>
+   <li href=./game/spadegaming.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/spadegaming.png">spadegaming</li>
+   <li href=./game/fastspin.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/fastspin.png">fastspin</li>
+   <li href=./game/joker.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/joker.png">joker</li>
+   <li href=./game/boongo.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/boongo.png">boongo</li>
+   <li href=./game/jili.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/jili.png">jili</li>
+   <li href=./game/playtech.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/playtech.png">playtech</li>
+   <li href=./game/microgaming.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/microgaming.png">microgaming</li>
+   <li href=./game/habanero.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/habanero.png">habanero</li>
+   <li href=./game/cq9.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/cq9.png">cq9</li>
+   <li href=./game/playstar.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/playstar.png">playstar</li>
+   <li href=./game/yggdrasil.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/yggdrasil.png">yggdrasil</li>
+   <li href=./game/netent.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/netent.png">netent</li>
+   <li href=./game/skywind.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/skywind.png"></li>
+   <li href=./game/toptrendgaming.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/toptrendgaming.png">toptrendgaming ttg</li>
+   <li href=./game/nextspin.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/nextspin.png">nextspin</li>
+   <li href=./game/bbin.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/bbin.png">bbin</li>
+   <li href=./game/creativegaming.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/creativegaming.png">creativegaming cg</li>
+   <li href=./game/evoplay.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/evoplay.png">evoplay</li>
+   <li href=./game/royalgaming.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/royalgaming.png">royalgaming rg</li>
+   <li href=./game/fishing.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/fishing.png">fishing tembak ikan</li>
+   <li href=./game/arcade.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/arcade.png">arcade</li>
+   <li href=./game/casino.html" class="stay tmenu1 panggilan"><img class="gmenu1" src="./game/icon/casino.png">casino</li>
+</ul>
   </div>
 `;
 
